@@ -1,0 +1,4 @@
+# Project exclude paths
+/front/frontend/dist/
+/front/frontend/node_modules
+/bek/target
