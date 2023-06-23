@@ -4,14 +4,109 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356f4e84-0dba-4b73-8217-f8e7f236cdf9" name="Changes" comment="fix" />
+    <list default="true" id="356f4e84-0dba-4b73-8217-f8e7f236cdf9" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/CalculationTests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/329889f2-095e-4d05-b98d-e389a84c53d0/storage_v2/_src_/database/Calculation_bek.8rX6gw/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/bek.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/java/com/artamonov/tests/bek/controller/CalculationsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/java/com/artamonov/tests/bek/model/NumberDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/java/com/artamonov/tests/bek/model/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/java/com/artamonov/tests/bek/model/NumbersDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/java/com/artamonov/tests/bek/model/entity/Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/java/com/artamonov/tests/bek/model/enums/OperationsEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/java/com/artamonov/tests/bek/repository/CalculationsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/java/com/artamonov/tests/bek/service/CalculationsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/java/com/artamonov/tests/bek/service/OperationsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/db.migration/V1__create_tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/db.migration/V2__insert.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/images/1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/images/2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/images/3-1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/images/3-2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/images/4-1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/images/4-2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/images/5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/images/6.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/images/addition 2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/main/resources/images/addition.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/test/java/com/artamonov/tests/bek/PostgreTestContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/test/java/com/artamonov/tests/bek/definitions/SpringIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/test/java/com/artamonov/tests/bek/definitions/StepDefsIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/test/java/com/artamonov/tests/bek/runner/SpringContextTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/test/resources/database/V1__create.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/src/test/resources/features/test.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/classpath.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/com/artamonov/tests/bek/BekApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/com/artamonov/tests/bek/controller/CalculationsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/com/artamonov/tests/bek/model/NumberDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/com/artamonov/tests/bek/model/Numbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/com/artamonov/tests/bek/model/NumbersDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/com/artamonov/tests/bek/model/entity/Calculations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/com/artamonov/tests/bek/model/enums/OperationsEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/com/artamonov/tests/bek/repository/CalculationsRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/com/artamonov/tests/bek/service/CalculationsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/com/artamonov/tests/bek/service/OperationsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/db.migration/V1__create_tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/db.migration/V2__insert.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/classes/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/test-classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/test-classes/classpath.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/test-classes/com/artamonov/tests/bek/BekApplicationTests$Initializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/test-classes/com/artamonov/tests/bek/BekApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/test-classes/com/artamonov/tests/bek/PostgreTestContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/test-classes/com/artamonov/tests/bek/definitions/SpringIntegrationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/test-classes/com/artamonov/tests/bek/definitions/StepDefsIntegrationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/test-classes/com/artamonov/tests/bek/runner/SpringContextTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/test-classes/database/V1__create.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bek/target/test-classes/features/test.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/.idea/56.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/app/app.route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/app/pipe/rounding.pipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/app/service/app.component.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/app/shared/directive/redblackgreen.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/app/shared/input/inputs.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/app/shared/input/inputs.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/app/test/inputs.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/app/test/redblackgreen.directive.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/app/test/rounding.pipe.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/frontend/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.postman_collection.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bek" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -29,38 +124,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/CalculationTests&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;4a469d04aa4d0184042bf1bf35bd89d0&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\user\\IdeaProjects\\CalculationTests\\5-frontend-unit-testing\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/CalculationTests",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "4a469d04aa4d0184042bf1bf35bd89d0",
+    "ts.external.directory.path": "C:\\Users\\user\\IdeaProjects\\CalculationTests\\front\\frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ],
-    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect&quot;: [
-      &quot;PostgreSQL&quot;
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect": [
+      "PostgreSQL"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="npm.e2e">
     <configuration name="BekApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="bek" />
@@ -107,7 +202,7 @@
       <workItem from="1687437660940" duration="20810000" />
       <workItem from="1687528665205" duration="4879000" />
       <workItem from="1687535546670" duration="1973000" />
-      <workItem from="1687537589450" duration="64000" />
+      <workItem from="1687537589450" duration="998000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1687473532292</created>
@@ -116,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687473532293</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1687538578739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687538578740</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +230,7 @@
     </ignored-roots>
     <MESSAGE value="init commit" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>

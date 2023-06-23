@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  postgres:
+    container_name: Calc
+    image: library/postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: root
+      POSTGRES_DB: Calculation_bek
+    ports:
+      - "5436:5432"
+    restart: unless-stopped
